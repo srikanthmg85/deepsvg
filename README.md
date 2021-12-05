@@ -12,7 +12,7 @@
     </a>
 </p>
 
-## Introduction
+## Introduction changes
 This is the official code for the paper "DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation".
 Please refer to section [below](#citation) for Citation details.
 
